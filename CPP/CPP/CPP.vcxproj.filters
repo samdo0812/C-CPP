@@ -33,5 +33,11 @@
     <ClCompile Include="Ex06.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Ex07.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

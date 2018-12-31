@@ -1,6 +1,7 @@
-﻿  Ex06.cpp
-c:\users\samdo\source\repos\cpp\cpp\ex06.cpp(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
-c:\users\samdo\source\repos\cpp\cpp\ex06.cpp(22): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+﻿  Ex08.cpp
+c:\users\samdo\source\repos\cpp\cpp\ex08.cpp(13): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\samdo\source\repos\cpp\cpp\ex08.cpp(15): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\samdo\source\repos\cpp\cpp\ex08.cpp(16): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\samdo\source\repos\cpp\cpp\ex08.cpp(18): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\samdo\source\repos\cpp\cpp\ex08.cpp(19): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
   CPP.vcxproj -> C:\Users\SAMDO\source\repos\CPP\Debug\CPP.exe

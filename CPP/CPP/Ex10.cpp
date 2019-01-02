@@ -18,7 +18,7 @@ int main() {
 
 
 	for (int *ptr = arr; ptr < arr+10; ptr++)
-	{
+	{ 
 		printf("%d ", *ptr);
 	}
 	printf_s("\n");

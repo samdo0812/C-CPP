@@ -1,6 +1,4 @@
-﻿  Ex17.cpp
-c:\users\samdo\source\repos\cpp\cpp\ex17.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
-c:\users\samdo\source\repos\cpp\cpp\ex17.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+﻿  Ex19.cpp
+c:\users\samdo\source\repos\cpp\cpp\ex19.cpp(6): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\samdo\source\repos\cpp\cpp\ex19.cpp(9): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
   CPP.vcxproj -> C:\Users\SAMDO\source\repos\CPP\Debug\CPP.exe

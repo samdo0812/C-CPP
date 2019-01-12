@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//call by reference
+//call by reference	(cpp¿¡¸¸)
 void swap(int &x, int &y) {
 	int tmp = x;
 	x = y;

@@ -14,4 +14,5 @@ int main() {
 	int &&r2 = 3;
 	int &&r3 = a * a;
 
+
 }

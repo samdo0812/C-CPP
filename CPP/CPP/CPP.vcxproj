@@ -361,7 +361,10 @@
     <ClCompile Include="Ex74.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Ex75.cpp" />
+    <ClCompile Include="Ex75.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Ex76.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Ex60_inPut.txt" />

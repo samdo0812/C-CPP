@@ -28,5 +28,5 @@ int main() {
 
 	int cmp = strcmp(str4,str5);
 	printf_s("%d\n", cmp);
-
+	 
 }
